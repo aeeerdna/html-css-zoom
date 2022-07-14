@@ -95,12 +95,13 @@ footer {
 }
 
 .h-100 {
-    height: 50px;
+    height: 100px;
 }
 
 #fine-meeting {
     background-color: #2d2d2d;
     color: red;
+    height: 100px;
 }
 
 /* end barra strumenti */
